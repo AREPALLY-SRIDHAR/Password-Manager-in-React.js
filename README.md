@@ -127,3 +127,4 @@ The app must have the following functionalities
 # password
 # password
 # Manager
+# Manager
