@@ -128,3 +128,4 @@ The app must have the following functionalities
 # password
 # Manager
 # Manager
+# Manager
